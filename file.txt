@@ -1,3 +1,4 @@
 I am writing from newbranch1
 I am writing from the github in main branch
 writing from github to know pull command
+writing from the newbranch again to check the status
